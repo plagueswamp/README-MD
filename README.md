@@ -3,7 +3,6 @@
 ## About: 
 
 - **Developer** _;_
-- **Full-Stack** _;_
 - **Russia** _;_
 - **Ukraine** _;_
 
