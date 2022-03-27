@@ -52,6 +52,10 @@ ________________________________________________________________________________
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+____________________________________________________________________________________________________________________________________
+
+### 📋 **Other - Stack**
 ![Pawn](https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png)
 ![SourcePawn](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Source_engine_logo_and_wordmark.svg/250px-Source_engine_logo_and_wordmark.svg.png)
 
