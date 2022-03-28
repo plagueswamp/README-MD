@@ -1,10 +1,17 @@
 # 👨‍💻**PlagueSwamp Developer**👨‍💻
 
-## About: 
+##  🧩 About: 
 
-- **Developer** _;_
-- **Russia** _;_
+- 👨‍💻 **Developer** _;_
+- 🇷🇺 **Russia** _;_
 
+____________________________________________________________________________________________________________________________________
+
+## 📊 My Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plagueswamp&theme=onedark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=plagueswamp&theme=onedark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=plagueswamp&theme=onedark)
 ____________________________________________________________________________________________________________________________________
 
 ## 📚 **Frameworks, Platforms and Libraries**
