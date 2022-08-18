@@ -9,9 +9,11 @@ ________________________________________________________________________________
 
 ## 📊 My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plagueswamp&theme=onedark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=plagueswamp&theme=onedark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=plagueswamp&theme=onedark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plagueswamp&theme=tokyonight) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plagueswamp&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=plagueswamp&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=plagueswamp&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plagueswamp&theme=tokyonight&utcOffset=8)
 ____________________________________________________________________________________________________________________________________
 
 ## 📚 **Frameworks, Platforms and Libraries**
