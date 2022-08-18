@@ -4,7 +4,7 @@
 
 - 👨‍💻 **Developer** _;_
 -**Russia** _;_
-<img align='left' src="https://i.ibb.co/VMQpwnw/about.png" width="230">
+<img align='left' src="https://i.ibb.co/VMQpwnw/about.png" width="450">
 ____________________________________________________________________________________________________________________________________
 
 ## 📊 My Stats
